@@ -6,7 +6,7 @@
 
 **目前只有前端页面**
 
-![image-20210616213646533](https://gitee.com/xbandbbg/bk-imgs/raw/master/image-20210616213646533.png)
+![image-20210616214007678](https://gitee.com/xbandbbg/bk-imgs/raw/master/image-20210616214007678.png)
 
 ### 在线预览地址：
 
